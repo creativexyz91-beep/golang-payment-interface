@@ -1,17 +1,14 @@
-# golang-payment-interface
+# Golang-payment-interface
 A payment processing simulation built with Go, demonstrating interfaces, structs, methods, polymorphism, and error handling using Credit Card, Stripe, and PayPal payment methods.
-# Go Payment Interface System
 
+# go Payment Interface System
 A beginner-friendly payment processing simulation developed using **Golang** to demonstrate the practical implementation of interfaces and polymorphism.
 
 ## Overview
-
-This project demonstrates how Go interfaces allow multiple payment methods to share a common behavior through a single payment processing function.
-
-It simulates three payment methods: Credit Card, Stripe, and PayPal.
+-This project demonstrates how Go interfaces allow multiple payment methods to share a common behavior through a single payment processing function.
+-It simulates three payment methods: Credit Card, Stripe, and PayPal.
 
 ## Features
-
 - Multiple payment methods
 - Interface implementation
 - Structs and methods
